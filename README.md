@@ -1,8 +1,3 @@
-# PyQt5-demo
+# image_classification_annotator
 
-A simple demo of PyQt5.
-
-
-
-
-
+Still under development.
